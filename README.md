@@ -162,21 +162,11 @@
      </P
   </br>
   </br>
-  <a href="mailto:surprise.eng000@gmail.com"><img src="./gmail.png" width="80"></a>
+  <a href="https://t.me/blockchainlover2020"><img src="./telegram.svg" width="80"></a>
+  <a href="@blockchainlover2020"><img src="./discord.svg" width="80"></a>
 
 </td>
 </table>
-<br>
-
-</br>
-<p align="center">
-    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
-</p>
-<br>
-<br>
-
-</br>
-
 
 
 
