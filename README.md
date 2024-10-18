@@ -22,6 +22,18 @@
       </a>
       <br>Truffle
      </td>
+     <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./hardhat.png" width="48" height="48" alt="Hardhat" />
+      </a>
+      <br>Hardhat
+     </td>
+     <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./ganache-seeklogo.svg" width="48" height="48" alt="Truffle" />
+      </a>
+      <br>Truffle
+     </td>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
         <img src="./react-original.svg" width="48" height="48" alt="React.js" />
