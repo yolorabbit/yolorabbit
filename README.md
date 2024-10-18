@@ -3,7 +3,7 @@
 
 
 <table align= "center">
-  <tr>
+    <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
         <img src="./solidity.svg" width="48" height="48" alt="Solidity" />
@@ -12,58 +12,61 @@
      </td>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./hardhat.png" width="48" height="48" alt="Hardhat" />
+        <img src="./hardhat.svg" width="48" height="48" alt="Hardhat" />
       </a>
       <br>Hardhat
      </td>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./ganache-seeklogo.svg" width="48" height="48" alt="Truffle" />
+        <img src="./ganache.svg" width="48" height="48" alt="Truffle" />
       </a>
       <br>Truffle
      </td>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./hardhat.png" width="48" height="48" alt="Hardhat" />
+        <img src="./openzeppelin.svg" width="48" height="48" alt="Openzeppelin" />
       </a>
-      <br>Hardhat
+      <br>Openzeppelin
      </td>
      <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./ganache-seeklogo.svg" width="48" height="48" alt="Truffle" />
+        <img src="./solana.svg" width="48" height="48" alt="Solana" />
       </a>
-      <br>Truffle
+      <br>Solana
      </td>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
+    </tr>
+    <tr>
+      <td align="center" width="140" height="112.43">
+        <a href="#macropower-tech" >
+          <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+        </a>
+        <br>React.js
+      </td>
+      <td align="center"  width="140" height="112.43">
+        <a href="#macropower-tech" >
+          <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+        </a>
+        <br>React Native
+      </td>
+      <td align="center"  width="140" height="112.43">
+        <a href="#macropower-tech">
+          <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center"  width="140" height="112.43">
+        <a href="#macropower-tech">
+          <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center"  width="140" height="112.43">
+        <a href="#macropower-tech">
+          <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+        </a>
+        <br>Sass
+      </td>
+    </tr>
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
