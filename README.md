@@ -163,7 +163,7 @@
   </br>
   </br>
   <a href="https://t.me/blockchainlover2020"><img src="./telegram.svg" width="80"></a>
-  <a href="@blockchainlover2020"><img src="./discord.svg" width="80"></a>
+  <a href="https://discord.gg/6MRgHsch"><img src="./discord.svg" width="80"></a>
 
 </td>
 </table>
