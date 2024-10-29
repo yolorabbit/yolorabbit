@@ -155,19 +155,3 @@
 
 
 
-<table align= "center">
-  <td align="center"  width="240" height="112.43">
-   <p  style="margin-top:12px">
-  📫 You can reach me:
-     </P
-  </br>
-  </br>
-  <a href="https://t.me/blockchainlover2020"><img src="./telegram.svg" width="80"></a>
-  <a href="https://discord.gg/6MRgHsch"><img src="./discord.svg" width="80"></a>
-
-</td>
-</table>
-
-
-
-
